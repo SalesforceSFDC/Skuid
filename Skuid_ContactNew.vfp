@@ -1,0 +1,5 @@
+<apex:page standardController="Contact" extensions="skuid.Redirects" 
+       showHeader="true" sidebar="true" readonly="true" docType="html-5.0"
+        action="{!IF(canUseSkuid,'',redirect)}" title="Contact: {!Contact.Name}">
+    <skuid:page objectType="Contact" actionType="New" />
+</apex:page>
