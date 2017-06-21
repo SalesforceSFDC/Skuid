@@ -8,4 +8,4 @@
 * [Top Metrics for Measuring End-User Experience in Your Cloud Applications](https://www.appneta.com/blog/top-metrics-for-measuring-end-user-experience-in-your-cloud-applications/?Ref__c=20872)
 * [14 Metrics to Optimize End-User Experience](https://www.appneta.com/resources/whitepapers/14-metrics-to-optimize-end-user-experience/)
 * [Caching Tutorial](https://www.mnot.net/cache_docs/#REF)
-
+* [A Guide to Application Performance Profiling in Force.com](https://developer.salesforce.com/page/A_Guide_to_Application_Performance_Profiling_in_Force.com)
