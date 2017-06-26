@@ -10,3 +10,4 @@
 * [Caching Tutorial](https://www.mnot.net/cache_docs/#REF)
 * [A Guide to Application Performance Profiling in Force.com](https://developer.salesforce.com/page/A_Guide_to_Application_Performance_Profiling_in_Force.com)
 * http://help.skuid.com/m/supercharge-your-ui/l/391568-skuid-page-performance-guide?id=391568-skuid-page-performance-guide&_ga=2.21450235.194034700.1497559437-1136016833.1497559437
+*  https://community.skuid.com/skuid/topics/standard-controller-on-object-with-many-fields-causes-slow-page-load-time-use-a-custom-controller-to-speed-things-up
